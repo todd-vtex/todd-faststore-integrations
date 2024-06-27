@@ -46,8 +46,8 @@
   "logo#desktop": {
     "props": {
       "title": "Logo",
-      "href": "https://www.valleyvet.com/",
-      "url": "skins/images/vvs_logo.png",
+      "href": "https://www.toddfaststore.com/",
+      "url": "https://todddesantis.vtexassets.com/assets/vtex.file-manager-graphql/images/de34759e-7fd3-43da-a399-a088b5af6693___b823697eb41ae54fd2160f89fcb7c0da.png",
       "width": "180"
     }
   },
